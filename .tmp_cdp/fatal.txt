@@ -1,5 +1,0 @@
-TypeError [ERR_INVALID_ARG_TYPE]: The first argument must be of type string or an instance of Buffer, ArrayBuffer, or Array or an Array-like Object. Received undefined
-    at Function.from (node:buffer:322:9)
-    at shot (D:\Coding\Coding Library\mcAgentBuilder\.tmp_cdp\run1.js:56:153)
-    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
-    at async D:\Coding\Coding Library\mcAgentBuilder\.tmp_cdp\run1.js:73:5
