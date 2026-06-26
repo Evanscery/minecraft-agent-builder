@@ -1,0 +1,6647 @@
+{
+  "buttons": [
+    {
+      "tag": "BUTTON",
+      "cls": "seg active",
+      "text": "视图",
+      "x": 280,
+      "y": 19,
+      "w": 38,
+      "h": 44,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg ",
+      "text": "编辑",
+      "x": 324,
+      "y": 19,
+      "w": 38,
+      "h": 44,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg icon-btn",
+      "text": "✚ 新建",
+      "x": 382,
+      "y": 11,
+      "w": 38,
+      "h": 60,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg icon-btn",
+      "text": "↶ 撤销",
+      "x": 426,
+      "y": 11,
+      "w": 38,
+      "h": 60,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg icon-btn",
+      "text": "💾 保存",
+      "x": 470,
+      "y": 11,
+      "w": 42,
+      "h": 60,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg icon-btn",
+      "text": "⚙ 设置",
+      "x": 518,
+      "y": 11,
+      "w": 38,
+      "h": 60,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg active",
+      "text": "整体",
+      "x": 597,
+      "y": 19,
+      "w": 38,
+      "h": 44,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg ",
+      "text": "区域",
+      "x": 641,
+      "y": 19,
+      "w": 38,
+      "h": 44,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg ",
+      "text": "分层",
+      "x": 685,
+      "y": 19,
+      "w": 38,
+      "h": 44,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg ",
+      "text": "材质",
+      "x": 729,
+      "y": 19,
+      "w": 38,
+      "h": 44,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg ",
+      "text": "接口",
+      "x": 773,
+      "y": 19,
+      "w": 38,
+      "h": 44,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg ",
+      "text": "错误",
+      "x": 817,
+      "y": 19,
+      "w": 38,
+      "h": 44,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg",
+      "text": "iso",
+      "x": 897,
+      "y": 26,
+      "w": 42,
+      "h": 29,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg",
+      "text": "front",
+      "x": 946,
+      "y": 26,
+      "w": 53,
+      "h": 29,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg",
+      "text": "side",
+      "x": 1005,
+      "y": 26,
+      "w": 50,
+      "h": 29,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg",
+      "text": "top",
+      "x": 1060,
+      "y": 26,
+      "w": 45,
+      "h": 29,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg reset-btn",
+      "text": "⟳ 复位",
+      "x": 1111,
+      "y": 11,
+      "w": 38,
+      "h": 60,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "tree-row selected",
+      "text": "R1\nnorthwest_tower\n175 · 1i",
+      "x": 27,
+      "y": 135,
+      "w": 228,
+      "h": 34,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "tree-row ",
+      "text": "R2\nnorth_gate_wall\n188 · 2i",
+      "x": 27,
+      "y": 173,
+      "w": 228,
+      "h": 34,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "tree-row ",
+      "text": "R3\ncourtyard_and_south_wall\n198 · 1i",
+      "x": 27,
+      "y": 211,
+      "w": 228,
+      "h": 34,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stone\na4",
+      "x": 27,
+      "y": 332,
+      "w": 85,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Granite\na4",
+      "x": 118,
+      "y": 332,
+      "w": 93,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Granite\na4",
+      "x": 27,
+      "y": 364,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Diorite\na4",
+      "x": 27,
+      "y": 396,
+      "w": 89,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Diorite\na4",
+      "x": 27,
+      "y": 428,
+      "w": 136,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Andesite\na4",
+      "x": 27,
+      "y": 460,
+      "w": 101,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Andesite\na4",
+      "x": 27,
+      "y": 492,
+      "w": 148,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cobblestone\na4",
+      "x": 27,
+      "y": 524,
+      "w": 121,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Gold Ore\na4",
+      "x": 27,
+      "y": 556,
+      "w": 101,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Gold Ore\na4",
+      "x": 27,
+      "y": 588,
+      "w": 156,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Iron Ore\na4",
+      "x": 27,
+      "y": 620,
+      "w": 97,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Iron Ore\na4",
+      "x": 27,
+      "y": 652,
+      "w": 152,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Coal Ore\na4",
+      "x": 27,
+      "y": 684,
+      "w": 100,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Coal Ore\na4",
+      "x": 27,
+      "y": 716,
+      "w": 156,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Nether Gold Ore\na4",
+      "x": 27,
+      "y": 748,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lapis Lazuli Ore\na4",
+      "x": 27,
+      "y": 780,
+      "w": 137,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Lapis Lazuli Ore\na4",
+      "x": 27,
+      "y": 812,
+      "w": 193,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Lapis Lazuli\na4",
+      "x": 27,
+      "y": 844,
+      "w": 161,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dispenser\na4",
+      "x": 27,
+      "y": 876,
+      "w": 107,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Sticky Piston\na4",
+      "x": 27,
+      "y": 908,
+      "w": 122,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Piston\na4",
+      "x": 155,
+      "y": 908,
+      "w": 87,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Piston Head\na4",
+      "x": 27,
+      "y": 940,
+      "w": 118,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Gold\na4",
+      "x": 27,
+      "y": 972,
+      "w": 124,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Iron\na4",
+      "x": 27,
+      "y": 1004,
+      "w": 120,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bricks\na4",
+      "x": 153,
+      "y": 1004,
+      "w": 87,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mossy Cobblestone\na4",
+      "x": 27,
+      "y": 1036,
+      "w": 158,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Obsidian\na4",
+      "x": 27,
+      "y": 1068,
+      "w": 101,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Diamond Ore\na4",
+      "x": 27,
+      "y": 1100,
+      "w": 123,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Diamond Ore\na4",
+      "x": 27,
+      "y": 1132,
+      "w": 178,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Diamond\na4",
+      "x": 27,
+      "y": 1164,
+      "w": 146,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Furnace\na4",
+      "x": 27,
+      "y": 1196,
+      "w": 97,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cobblestone Stairs\na4",
+      "x": 27,
+      "y": 1228,
+      "w": 154,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Iron Door\na4",
+      "x": 27,
+      "y": 1260,
+      "w": 103,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Redstone Ore\na4",
+      "x": 27,
+      "y": 1292,
+      "w": 126,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Redstone Ore\na4",
+      "x": 27,
+      "y": 1324,
+      "w": 182,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Basalt\na4",
+      "x": 27,
+      "y": 1356,
+      "w": 87,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Basalt\na4",
+      "x": 120,
+      "y": 1356,
+      "w": 134,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stone Bricks\na4",
+      "x": 27,
+      "y": 1388,
+      "w": 120,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mossy Stone Bricks\na4",
+      "x": 27,
+      "y": 1420,
+      "w": 157,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cracked Stone Bricks\na4",
+      "x": 27,
+      "y": 1452,
+      "w": 167,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Chiseled Stone Bricks\na4",
+      "x": 27,
+      "y": 1484,
+      "w": 168,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Packed Mud\na4",
+      "x": 27,
+      "y": 1516,
+      "w": 119,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mud Bricks\na4",
+      "x": 27,
+      "y": 1548,
+      "w": 113,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Infested Cobblestone\na4",
+      "x": 27,
+      "y": 1580,
+      "w": 167,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Iron Bars\na4",
+      "x": 27,
+      "y": 1612,
+      "w": 101,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Chain\na4",
+      "x": 134,
+      "y": 1612,
+      "w": 85,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brick Stairs\na4",
+      "x": 27,
+      "y": 1644,
+      "w": 114,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stone Brick Stairs\na4",
+      "x": 27,
+      "y": 1676,
+      "w": 147,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mud Brick Stairs\na4",
+      "x": 27,
+      "y": 1708,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Nether Bricks\na4",
+      "x": 27,
+      "y": 1740,
+      "w": 126,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Nether Brick Fence\na4",
+      "x": 27,
+      "y": 1772,
+      "w": 154,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Nether Brick Stairs\na4",
+      "x": 27,
+      "y": 1804,
+      "w": 153,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cauldron\na4",
+      "x": 27,
+      "y": 1836,
+      "w": 102,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Water Cauldron\na4",
+      "x": 27,
+      "y": 1868,
+      "w": 136,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Powder Snow Cauldron\na4",
+      "x": 27,
+      "y": 1900,
+      "w": 176,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "End Stone\na4",
+      "x": 27,
+      "y": 1932,
+      "w": 108,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Emerald Ore\na4",
+      "x": 27,
+      "y": 1964,
+      "w": 119,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Emerald Ore\na4",
+      "x": 27,
+      "y": 1996,
+      "w": 174,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Emerald\na4",
+      "x": 27,
+      "y": 2028,
+      "w": 142,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cobblestone Wall\na4",
+      "x": 27,
+      "y": 2060,
+      "w": 146,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mossy Cobblestone Wall\na4",
+      "x": 27,
+      "y": 2092,
+      "w": 183,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Anvil\na4",
+      "x": 27,
+      "y": 2124,
+      "w": 80,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Chipped Anvil\na4",
+      "x": 113,
+      "y": 2124,
+      "w": 127,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Damaged Anvil\na4",
+      "x": 27,
+      "y": 2156,
+      "w": 133,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Redstone\na4",
+      "x": 27,
+      "y": 2188,
+      "w": 149,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Nether Quartz Ore\na4",
+      "x": 27,
+      "y": 2220,
+      "w": 151,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Hopper\na4",
+      "x": 27,
+      "y": 2252,
+      "w": 94,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dropper\na4",
+      "x": 127,
+      "y": 2252,
+      "w": 97,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "White Terracotta\na4",
+      "x": 27,
+      "y": 2284,
+      "w": 142,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Orange Terracotta\na4",
+      "x": 27,
+      "y": 2316,
+      "w": 150,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Magenta Terracotta\na4",
+      "x": 27,
+      "y": 2348,
+      "w": 158,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Blue Terracotta\na4",
+      "x": 27,
+      "y": 2380,
+      "w": 164,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Yellow Terracotta\na4",
+      "x": 27,
+      "y": 2412,
+      "w": 145,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lime Terracotta\na4",
+      "x": 27,
+      "y": 2444,
+      "w": 137,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Pink Terracotta\na4",
+      "x": 27,
+      "y": 2476,
+      "w": 134,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Gray Terracotta\na4",
+      "x": 27,
+      "y": 2508,
+      "w": 136,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Gray Terracotta\na4",
+      "x": 27,
+      "y": 2540,
+      "w": 165,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cyan Terracotta\na4",
+      "x": 27,
+      "y": 2572,
+      "w": 139,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Purple Terracotta\na4",
+      "x": 27,
+      "y": 2604,
+      "w": 145,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blue Terracotta\na4",
+      "x": 27,
+      "y": 2636,
+      "w": 135,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brown Terracotta\na4",
+      "x": 27,
+      "y": 2668,
+      "w": 145,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Green Terracotta\na4",
+      "x": 27,
+      "y": 2700,
+      "w": 143,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Terracotta\na4",
+      "x": 27,
+      "y": 2732,
+      "w": 132,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Black Terracotta\na4",
+      "x": 27,
+      "y": 2764,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Iron Trapdoor\na4",
+      "x": 27,
+      "y": 2796,
+      "w": 125,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Prismarine\na4",
+      "x": 27,
+      "y": 2828,
+      "w": 110,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Prismarine Bricks\na4",
+      "x": 27,
+      "y": 2860,
+      "w": 145,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Prismarine\na4",
+      "x": 27,
+      "y": 2892,
+      "w": 137,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Prismarine Stairs\na4",
+      "x": 27,
+      "y": 2924,
+      "w": 143,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Prismarine Brick Stairs\na4",
+      "x": 27,
+      "y": 2956,
+      "w": 172,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Prismarine Stairs\na4",
+      "x": 27,
+      "y": 2988,
+      "w": 170,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Prismarine Slab\na4",
+      "x": 27,
+      "y": 3020,
+      "w": 136,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Prismarine Brick Slab\na4",
+      "x": 27,
+      "y": 3052,
+      "w": 165,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Prismarine Slab\na4",
+      "x": 27,
+      "y": 3084,
+      "w": 163,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Terracotta\na4",
+      "x": 27,
+      "y": 3116,
+      "w": 109,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Coal\na4",
+      "x": 27,
+      "y": 3148,
+      "w": 124,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stone Slab\na4",
+      "x": 27,
+      "y": 3180,
+      "w": 111,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Stone Slab\na4",
+      "x": 27,
+      "y": 3212,
+      "w": 155,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Sandstone Slab\na4",
+      "x": 27,
+      "y": 3244,
+      "w": 136,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cut Sandstone Slab\na4",
+      "x": 27,
+      "y": 3276,
+      "w": 158,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Petrified Oak Slab\na4",
+      "x": 27,
+      "y": 3308,
+      "w": 148,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cobblestone Slab\na4",
+      "x": 27,
+      "y": 3340,
+      "w": 147,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brick Slab\na4",
+      "x": 27,
+      "y": 3372,
+      "w": 107,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stone Brick Slab\na4",
+      "x": 27,
+      "y": 3404,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mud Brick Slab\na4",
+      "x": 27,
+      "y": 3436,
+      "w": 133,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Nether Brick Slab\na4",
+      "x": 27,
+      "y": 3468,
+      "w": 146,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Quartz Slab\na4",
+      "x": 27,
+      "y": 3500,
+      "w": 116,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Sandstone Slab\na4",
+      "x": 27,
+      "y": 3532,
+      "w": 160,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cut Red Sandstone Slab\na4",
+      "x": 27,
+      "y": 3564,
+      "w": 181,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Purpur Slab\na4",
+      "x": 27,
+      "y": 3596,
+      "w": 115,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Stone\na4",
+      "x": 27,
+      "y": 3628,
+      "w": 129,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Sandstone\na4",
+      "x": 27,
+      "y": 3660,
+      "w": 154,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Quartz Block\na4",
+      "x": 27,
+      "y": 3692,
+      "w": 165,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Red Sandstone\na4",
+      "x": 27,
+      "y": 3724,
+      "w": 177,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Purpur Block\na4",
+      "x": 27,
+      "y": 3756,
+      "w": 121,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Purpur Pillar\na4",
+      "x": 27,
+      "y": 3788,
+      "w": 118,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Purpur Stairs\na4",
+      "x": 27,
+      "y": 3820,
+      "w": 122,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "End Stone Bricks\na4",
+      "x": 27,
+      "y": 3852,
+      "w": 143,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Nether Bricks\na4",
+      "x": 27,
+      "y": 3884,
+      "w": 149,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bone Block\na4",
+      "x": 27,
+      "y": 3916,
+      "w": 113,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Observer\na4",
+      "x": 146,
+      "y": 3916,
+      "w": 103,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Shulker Box\na4",
+      "x": 27,
+      "y": 3948,
+      "w": 116,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "White Shulker Box\na4",
+      "x": 27,
+      "y": 3980,
+      "w": 149,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Orange Shulker Box\na4",
+      "x": 27,
+      "y": 4012,
+      "w": 158,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Magenta Shulker Box\na4",
+      "x": 27,
+      "y": 4044,
+      "w": 165,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Blue Shulker Box\na4",
+      "x": 27,
+      "y": 4076,
+      "w": 171,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Yellow Shulker Box\na4",
+      "x": 27,
+      "y": 4108,
+      "w": 153,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lime Shulker Box\na4",
+      "x": 27,
+      "y": 4140,
+      "w": 144,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Pink Shulker Box\na4",
+      "x": 27,
+      "y": 4172,
+      "w": 141,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Gray Shulker Box\na4",
+      "x": 27,
+      "y": 4204,
+      "w": 144,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Gray Shulker Box\na4",
+      "x": 27,
+      "y": 4236,
+      "w": 173,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cyan Shulker Box\na4",
+      "x": 27,
+      "y": 4268,
+      "w": 146,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Purple Shulker Box\na4",
+      "x": 27,
+      "y": 4300,
+      "w": 153,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blue Shulker Box\na4",
+      "x": 27,
+      "y": 4332,
+      "w": 142,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brown Shulker Box\na4",
+      "x": 27,
+      "y": 4364,
+      "w": 152,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Green Shulker Box\na4",
+      "x": 27,
+      "y": 4396,
+      "w": 151,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Shulker Box\na4",
+      "x": 27,
+      "y": 4428,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Black Shulker Box\na4",
+      "x": 27,
+      "y": 4460,
+      "w": 147,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "White Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4492,
+      "w": 181,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Orange Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4524,
+      "w": 189,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Magenta Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4556,
+      "w": 197,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Blue Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4588,
+      "w": 203,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Yellow Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4620,
+      "w": 184,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lime Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4652,
+      "w": 176,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Pink Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4684,
+      "w": 173,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Gray Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4716,
+      "w": 175,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Gray Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4748,
+      "w": 205,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cyan Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4780,
+      "w": 178,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Purple Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4812,
+      "w": 184,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blue Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4844,
+      "w": 174,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brown Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4876,
+      "w": 184,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Green Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4908,
+      "w": 182,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4940,
+      "w": 171,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Black Glazed Terracotta\na4",
+      "x": 27,
+      "y": 4972,
+      "w": 179,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "White Concrete\na4",
+      "x": 27,
+      "y": 5004,
+      "w": 136,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Orange Concrete\na4",
+      "x": 27,
+      "y": 5036,
+      "w": 144,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Magenta Concrete\na4",
+      "x": 27,
+      "y": 5068,
+      "w": 152,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Blue Concrete\na4",
+      "x": 27,
+      "y": 5100,
+      "w": 158,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Yellow Concrete\na4",
+      "x": 27,
+      "y": 5132,
+      "w": 139,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lime Concrete\na4",
+      "x": 27,
+      "y": 5164,
+      "w": 131,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Pink Concrete\na4",
+      "x": 27,
+      "y": 5196,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Gray Concrete\na4",
+      "x": 27,
+      "y": 5228,
+      "w": 130,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Gray Concrete\na4",
+      "x": 27,
+      "y": 5260,
+      "w": 159,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cyan Concrete\na4",
+      "x": 27,
+      "y": 5292,
+      "w": 132,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Purple Concrete\na4",
+      "x": 27,
+      "y": 5324,
+      "w": 139,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blue Concrete\na4",
+      "x": 27,
+      "y": 5356,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brown Concrete\na4",
+      "x": 27,
+      "y": 5388,
+      "w": 139,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Green Concrete\na4",
+      "x": 27,
+      "y": 5420,
+      "w": 137,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Concrete\na4",
+      "x": 27,
+      "y": 5452,
+      "w": 126,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Black Concrete\na4",
+      "x": 27,
+      "y": 5484,
+      "w": 134,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dead Tube Coral Block\na4",
+      "x": 27,
+      "y": 5516,
+      "w": 173,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dead Brain Coral Block\na4",
+      "x": 27,
+      "y": 5548,
+      "w": 174,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dead Bubble Coral Block\na4",
+      "x": 27,
+      "y": 5580,
+      "w": 184,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dead Fire Coral Block\na4",
+      "x": 27,
+      "y": 5612,
+      "w": 167,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dead Horn Coral Block\na4",
+      "x": 27,
+      "y": 5644,
+      "w": 173,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Tube Coral Block\na4",
+      "x": 27,
+      "y": 5676,
+      "w": 143,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brain Coral Block\na4",
+      "x": 27,
+      "y": 5708,
+      "w": 144,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bubble Coral Block\na4",
+      "x": 27,
+      "y": 5740,
+      "w": 153,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Fire Coral Block\na4",
+      "x": 27,
+      "y": 5772,
+      "w": 136,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Horn Coral Block\na4",
+      "x": 27,
+      "y": 5804,
+      "w": 142,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blue Ice\na4",
+      "x": 27,
+      "y": 5836,
+      "w": 96,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Granite Stairs\na4",
+      "x": 27,
+      "y": 5868,
+      "w": 173,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Red Sandstone Stairs\na4",
+      "x": 27,
+      "y": 5900,
+      "w": 210,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mossy Stone Brick Stairs\na4",
+      "x": 27,
+      "y": 5932,
+      "w": 184,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Diorite Stairs\na4",
+      "x": 27,
+      "y": 5964,
+      "w": 169,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mossy Cobblestone Stairs\na4",
+      "x": 27,
+      "y": 5996,
+      "w": 191,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "End Stone Brick Stairs\na4",
+      "x": 27,
+      "y": 6028,
+      "w": 170,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stone Stairs\na4",
+      "x": 27,
+      "y": 6060,
+      "w": 118,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Sandstone Stairs\na4",
+      "x": 27,
+      "y": 6092,
+      "w": 187,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Quartz Stairs\na4",
+      "x": 27,
+      "y": 6124,
+      "w": 167,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Granite Stairs\na4",
+      "x": 27,
+      "y": 6156,
+      "w": 126,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Andesite Stairs\na4",
+      "x": 27,
+      "y": 6188,
+      "w": 134,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Nether Brick Stairs\na4",
+      "x": 27,
+      "y": 6220,
+      "w": 176,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Andesite Stairs\na4",
+      "x": 27,
+      "y": 6252,
+      "w": 181,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Diorite Stairs\na4",
+      "x": 27,
+      "y": 6284,
+      "w": 122,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Granite Slab\na4",
+      "x": 27,
+      "y": 6316,
+      "w": 166,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Red Sandstone Slab\na4",
+      "x": 27,
+      "y": 6348,
+      "w": 203,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mossy Stone Brick Slab\na4",
+      "x": 27,
+      "y": 6380,
+      "w": 177,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Diorite Slab\na4",
+      "x": 27,
+      "y": 6412,
+      "w": 162,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mossy Cobblestone Slab\na4",
+      "x": 27,
+      "y": 6444,
+      "w": 184,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "End Stone Brick Slab\na4",
+      "x": 27,
+      "y": 6476,
+      "w": 163,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Sandstone Slab\na4",
+      "x": 27,
+      "y": 6508,
+      "w": 180,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Quartz Slab\na4",
+      "x": 27,
+      "y": 6540,
+      "w": 160,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Granite Slab\na4",
+      "x": 27,
+      "y": 6572,
+      "w": 119,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Andesite Slab\na4",
+      "x": 27,
+      "y": 6604,
+      "w": 127,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Nether Brick Slab\na4",
+      "x": 27,
+      "y": 6636,
+      "w": 169,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Andesite Slab\na4",
+      "x": 27,
+      "y": 6668,
+      "w": 174,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Diorite Slab\na4",
+      "x": 27,
+      "y": 6700,
+      "w": 115,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brick Wall\na4",
+      "x": 148,
+      "y": 6700,
+      "w": 105,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Prismarine Wall\na4",
+      "x": 27,
+      "y": 6732,
+      "w": 134,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mossy Stone Brick Wall\na4",
+      "x": 27,
+      "y": 6764,
+      "w": 176,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Granite Wall\na4",
+      "x": 27,
+      "y": 6796,
+      "w": 117,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stone Brick Wall\na4",
+      "x": 27,
+      "y": 6828,
+      "w": 139,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mud Brick Wall\na4",
+      "x": 27,
+      "y": 6860,
+      "w": 131,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Nether Brick Wall\na4",
+      "x": 27,
+      "y": 6892,
+      "w": 144,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Andesite Wall\na4",
+      "x": 27,
+      "y": 6924,
+      "w": 125,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Nether Brick Wall\na4",
+      "x": 27,
+      "y": 6956,
+      "w": 168,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "End Stone Brick Wall\na4",
+      "x": 27,
+      "y": 6988,
+      "w": 162,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Diorite Wall\na4",
+      "x": 27,
+      "y": 7020,
+      "w": 114,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smoker\na4",
+      "x": 147,
+      "y": 7020,
+      "w": 94,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blast Furnace\na4",
+      "x": 27,
+      "y": 7052,
+      "w": 126,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Grindstone\na4",
+      "x": 27,
+      "y": 7084,
+      "w": 112,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stonecutter\na4",
+      "x": 27,
+      "y": 7116,
+      "w": 116,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bell\na4",
+      "x": 149,
+      "y": 7116,
+      "w": 74,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Netherite\na4",
+      "x": 27,
+      "y": 7148,
+      "w": 149,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Ancient Debris\na4",
+      "x": 27,
+      "y": 7180,
+      "w": 131,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Respawn Anchor\na4",
+      "x": 27,
+      "y": 7212,
+      "w": 143,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lodestone\na4",
+      "x": 27,
+      "y": 7244,
+      "w": 110,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blackstone\na4",
+      "x": 27,
+      "y": 7276,
+      "w": 112,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blackstone Stairs\na4",
+      "x": 27,
+      "y": 7308,
+      "w": 145,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blackstone Wall\na4",
+      "x": 27,
+      "y": 7340,
+      "w": 137,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blackstone Slab\na4",
+      "x": 27,
+      "y": 7372,
+      "w": 138,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Blackstone\na4",
+      "x": 27,
+      "y": 7404,
+      "w": 159,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Blackstone Bricks\na4",
+      "x": 27,
+      "y": 7436,
+      "w": 194,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cracked Polished Blackstone Bricks\na4",
+      "x": 27,
+      "y": 7468,
+      "w": 228,
+      "h": 40,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Chiseled Polished Blackstone\na4",
+      "x": 27,
+      "y": 7514,
+      "w": 208,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Blackstone Brick Slab\na4",
+      "x": 27,
+      "y": 7546,
+      "w": 214,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Blackstone Brick Stairs\na4",
+      "x": 27,
+      "y": 7578,
+      "w": 221,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Blackstone Brick Wall\na4",
+      "x": 27,
+      "y": 7610,
+      "w": 213,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Gilded Blackstone\na4",
+      "x": 27,
+      "y": 7642,
+      "w": 149,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Blackstone Stairs\na4",
+      "x": 27,
+      "y": 7674,
+      "w": 192,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Blackstone Slab\na4",
+      "x": 27,
+      "y": 7706,
+      "w": 185,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Blackstone Wall\na4",
+      "x": 27,
+      "y": 7738,
+      "w": 184,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Chiseled Nether Bricks\na4",
+      "x": 27,
+      "y": 7770,
+      "w": 174,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cracked Nether Bricks\na4",
+      "x": 27,
+      "y": 7802,
+      "w": 172,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Amethyst\na4",
+      "x": 27,
+      "y": 7834,
+      "w": 150,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Budding Amethyst\na4",
+      "x": 27,
+      "y": 7866,
+      "w": 151,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Tuff\na4",
+      "x": 27,
+      "y": 7898,
+      "w": 76,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oxidized Copper\na4",
+      "x": 109,
+      "y": 7898,
+      "w": 142,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Weathered Copper\na4",
+      "x": 27,
+      "y": 7930,
+      "w": 153,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Exposed Copper\na4",
+      "x": 27,
+      "y": 7962,
+      "w": 141,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Copper\na4",
+      "x": 27,
+      "y": 7994,
+      "w": 139,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Copper Ore\na4",
+      "x": 27,
+      "y": 8026,
+      "w": 115,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Copper Ore\na4",
+      "x": 27,
+      "y": 8058,
+      "w": 171,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oxidized Cut Copper\na4",
+      "x": 27,
+      "y": 8090,
+      "w": 163,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Weathered Cut Copper\na4",
+      "x": 27,
+      "y": 8122,
+      "w": 175,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Exposed Cut Copper\na4",
+      "x": 27,
+      "y": 8154,
+      "w": 163,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cut Copper\na4",
+      "x": 27,
+      "y": 8186,
+      "w": 115,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oxidized Cut Copper Stairs\na4",
+      "x": 27,
+      "y": 8218,
+      "w": 196,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Weathered Cut Copper Stairs\na4",
+      "x": 27,
+      "y": 8250,
+      "w": 207,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Exposed Cut Copper Stairs\na4",
+      "x": 27,
+      "y": 8282,
+      "w": 196,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cut Copper Stairs\na4",
+      "x": 27,
+      "y": 8314,
+      "w": 148,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oxidized Cut Copper Slab\na4",
+      "x": 27,
+      "y": 8346,
+      "w": 189,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Weathered Cut Copper Slab\na4",
+      "x": 27,
+      "y": 8378,
+      "w": 200,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Exposed Cut Copper Slab\na4",
+      "x": 27,
+      "y": 8410,
+      "w": 189,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cut Copper Slab\na4",
+      "x": 27,
+      "y": 8442,
+      "w": 141,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Block of Copper\na4",
+      "x": 27,
+      "y": 8474,
+      "w": 177,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Weathered Copper\na4",
+      "x": 27,
+      "y": 8506,
+      "w": 191,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Exposed Copper\na4",
+      "x": 27,
+      "y": 8538,
+      "w": 179,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Oxidized Copper\na4",
+      "x": 27,
+      "y": 8570,
+      "w": 180,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Oxidized Cut Copper\na4",
+      "x": 27,
+      "y": 8602,
+      "w": 202,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Weathered Cut Copper\na4",
+      "x": 27,
+      "y": 8634,
+      "w": 213,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Exposed Cut Copper\na4",
+      "x": 27,
+      "y": 8666,
+      "w": 201,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Cut Copper\na4",
+      "x": 27,
+      "y": 8698,
+      "w": 153,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Oxidized Cut Copper Stairs\na4",
+      "x": 27,
+      "y": 8730,
+      "w": 228,
+      "h": 40,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Weathered Cut Copper Stairs\na4",
+      "x": 27,
+      "y": 8776,
+      "w": 228,
+      "h": 40,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Exposed Cut Copper Stairs\na4",
+      "x": 27,
+      "y": 8822,
+      "w": 228,
+      "h": 40,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Cut Copper Stairs\na4",
+      "x": 27,
+      "y": 8868,
+      "w": 186,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Oxidized Cut Copper Slab\na4",
+      "x": 27,
+      "y": 8900,
+      "w": 227,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Weathered Cut Copper Slab\na4",
+      "x": 27,
+      "y": 8932,
+      "w": 228,
+      "h": 40,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Exposed Cut Copper Slab\na4",
+      "x": 27,
+      "y": 8978,
+      "w": 227,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Waxed Cut Copper Slab\na4",
+      "x": 27,
+      "y": 9010,
+      "w": 179,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lightning Rod\na4",
+      "x": 27,
+      "y": 9042,
+      "w": 127,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Pointed Dripstone\na4",
+      "x": 27,
+      "y": 9074,
+      "w": 148,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dripstone Block\na4",
+      "x": 27,
+      "y": 9106,
+      "w": 137,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate\na4",
+      "x": 27,
+      "y": 9138,
+      "w": 107,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cobbled Deepslate\na4",
+      "x": 27,
+      "y": 9170,
+      "w": 154,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cobbled Deepslate Stairs\na4",
+      "x": 27,
+      "y": 9202,
+      "w": 187,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cobbled Deepslate Slab\na4",
+      "x": 27,
+      "y": 9234,
+      "w": 180,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cobbled Deepslate Wall\na4",
+      "x": 27,
+      "y": 9266,
+      "w": 179,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Deepslate\na4",
+      "x": 27,
+      "y": 9298,
+      "w": 155,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Deepslate Stairs\na4",
+      "x": 27,
+      "y": 9330,
+      "w": 187,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Deepslate Slab\na4",
+      "x": 27,
+      "y": 9362,
+      "w": 180,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Polished Deepslate Wall\na4",
+      "x": 27,
+      "y": 9394,
+      "w": 179,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Tiles\na4",
+      "x": 27,
+      "y": 9426,
+      "w": 135,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Tile Stairs\na4",
+      "x": 27,
+      "y": 9458,
+      "w": 162,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Tile Slab\na4",
+      "x": 27,
+      "y": 9490,
+      "w": 155,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Tile Wall\na4",
+      "x": 27,
+      "y": 9522,
+      "w": 154,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Bricks\na4",
+      "x": 27,
+      "y": 9554,
+      "w": 142,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Brick Stairs\na4",
+      "x": 27,
+      "y": 9586,
+      "w": 169,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Brick Slab\na4",
+      "x": 27,
+      "y": 9618,
+      "w": 162,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Deepslate Brick Wall\na4",
+      "x": 27,
+      "y": 9650,
+      "w": 161,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Chiseled Deepslate\na4",
+      "x": 27,
+      "y": 9682,
+      "w": 156,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cracked Deepslate Bricks\na4",
+      "x": 27,
+      "y": 9714,
+      "w": 189,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cracked Deepslate Tiles\na4",
+      "x": 27,
+      "y": 9746,
+      "w": 181,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Infested Deepslate\na4",
+      "x": 27,
+      "y": 9778,
+      "w": 153,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smooth Basalt\na4",
+      "x": 27,
+      "y": 9810,
+      "w": 130,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Raw Iron\na4",
+      "x": 27,
+      "y": 9842,
+      "w": 145,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Raw Copper\na4",
+      "x": 27,
+      "y": 9874,
+      "w": 164,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Raw Gold\na4",
+      "x": 27,
+      "y": 9906,
+      "w": 150,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Planks\na3",
+      "x": 27,
+      "y": 9963,
+      "w": 113,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Planks\na3",
+      "x": 27,
+      "y": 9995,
+      "w": 129,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Planks\na3",
+      "x": 27,
+      "y": 10027,
+      "w": 118,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Planks\na3",
+      "x": 27,
+      "y": 10059,
+      "w": 127,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Planks\na3",
+      "x": 27,
+      "y": 10091,
+      "w": 127,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Planks\na3",
+      "x": 27,
+      "y": 10123,
+      "w": 127,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Planks\na3",
+      "x": 27,
+      "y": 10155,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Planks\na3",
+      "x": 27,
+      "y": 10187,
+      "w": 144,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Planks\na3",
+      "x": 27,
+      "y": 10219,
+      "w": 135,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Mosaic\na3",
+      "x": 27,
+      "y": 10251,
+      "w": 138,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Log\na3",
+      "x": 27,
+      "y": 10283,
+      "w": 98,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Log\na3",
+      "x": 131,
+      "y": 10283,
+      "w": 114,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Log\na3",
+      "x": 27,
+      "y": 10315,
+      "w": 104,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Log\na3",
+      "x": 137,
+      "y": 10315,
+      "w": 112,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Log\na3",
+      "x": 27,
+      "y": 10347,
+      "w": 112,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Log\na3",
+      "x": 27,
+      "y": 10379,
+      "w": 113,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Log\na3",
+      "x": 27,
+      "y": 10411,
+      "w": 125,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Log\na3",
+      "x": 27,
+      "y": 10443,
+      "w": 129,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Roots\na3",
+      "x": 27,
+      "y": 10475,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Bamboo\na3",
+      "x": 27,
+      "y": 10507,
+      "w": 143,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Spruce Log\na3",
+      "x": 27,
+      "y": 10539,
+      "w": 162,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Birch Log\na3",
+      "x": 27,
+      "y": 10571,
+      "w": 151,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Jungle Log\na3",
+      "x": 27,
+      "y": 10603,
+      "w": 160,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Acacia Log\na3",
+      "x": 27,
+      "y": 10635,
+      "w": 160,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Cherry Log\na3",
+      "x": 27,
+      "y": 10667,
+      "w": 160,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Dark Oak Log\na3",
+      "x": 27,
+      "y": 10699,
+      "w": 173,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Oak Log\na3",
+      "x": 27,
+      "y": 10731,
+      "w": 146,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Mangrove Log\na3",
+      "x": 27,
+      "y": 10763,
+      "w": 177,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Block of Stripped Bamboo\na3",
+      "x": 27,
+      "y": 10795,
+      "w": 191,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Wood\na3",
+      "x": 27,
+      "y": 10827,
+      "w": 108,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Wood\na3",
+      "x": 27,
+      "y": 10859,
+      "w": 125,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Wood\na3",
+      "x": 27,
+      "y": 10891,
+      "w": 114,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Wood\na3",
+      "x": 27,
+      "y": 10923,
+      "w": 122,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Wood\na3",
+      "x": 27,
+      "y": 10955,
+      "w": 123,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Wood\na3",
+      "x": 27,
+      "y": 10987,
+      "w": 123,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Wood\na3",
+      "x": 27,
+      "y": 11019,
+      "w": 136,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Wood\na3",
+      "x": 27,
+      "y": 11051,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Oak Wood\na3",
+      "x": 27,
+      "y": 11083,
+      "w": 156,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Spruce Wood\na3",
+      "x": 27,
+      "y": 11115,
+      "w": 172,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Birch Wood\na3",
+      "x": 27,
+      "y": 11147,
+      "w": 162,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Jungle Wood\na3",
+      "x": 27,
+      "y": 11179,
+      "w": 170,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Acacia Wood\na3",
+      "x": 27,
+      "y": 11211,
+      "w": 170,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Cherry Wood\na3",
+      "x": 27,
+      "y": 11243,
+      "w": 171,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Dark Oak Wood\na3",
+      "x": 27,
+      "y": 11275,
+      "w": 183,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Mangrove Wood\na3",
+      "x": 27,
+      "y": 11307,
+      "w": 187,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Note Block\na3",
+      "x": 27,
+      "y": 11339,
+      "w": 112,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bookshelf\na3",
+      "x": 145,
+      "y": 11339,
+      "w": 107,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Chiseled Bookshelf\na3",
+      "x": 27,
+      "y": 11371,
+      "w": 155,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Stairs\na3",
+      "x": 27,
+      "y": 11403,
+      "w": 108,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Chest\na3",
+      "x": 141,
+      "y": 11403,
+      "w": 86,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crafting Table\na3",
+      "x": 27,
+      "y": 11435,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Sign\na3",
+      "x": 27,
+      "y": 11467,
+      "w": 101,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Sign\na3",
+      "x": 134,
+      "y": 11467,
+      "w": 118,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Sign\na3",
+      "x": 27,
+      "y": 11499,
+      "w": 107,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Sign\na3",
+      "x": 27,
+      "y": 11531,
+      "w": 116,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Sign\na3",
+      "x": 27,
+      "y": 11563,
+      "w": 116,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Sign\na3",
+      "x": 27,
+      "y": 11595,
+      "w": 115,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Sign\na3",
+      "x": 27,
+      "y": 11627,
+      "w": 129,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Sign\na3",
+      "x": 27,
+      "y": 11659,
+      "w": 133,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Sign\na3",
+      "x": 27,
+      "y": 11691,
+      "w": 124,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Door\na3",
+      "x": 27,
+      "y": 11723,
+      "w": 104,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Ladder\na3",
+      "x": 137,
+      "y": 11723,
+      "w": 92,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Sign\na3",
+      "x": 27,
+      "y": 11755,
+      "w": 101,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Sign\na3",
+      "x": 134,
+      "y": 11755,
+      "w": 118,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Sign\na3",
+      "x": 27,
+      "y": 11787,
+      "w": 107,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Sign\na3",
+      "x": 27,
+      "y": 11819,
+      "w": 116,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Sign\na3",
+      "x": 27,
+      "y": 11851,
+      "w": 116,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Sign\na3",
+      "x": 27,
+      "y": 11883,
+      "w": 115,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Sign\na3",
+      "x": 27,
+      "y": 11915,
+      "w": 129,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Sign\na3",
+      "x": 27,
+      "y": 11947,
+      "w": 133,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Sign\na3",
+      "x": 27,
+      "y": 11979,
+      "w": 124,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Hanging Sign\na3",
+      "x": 27,
+      "y": 12011,
+      "w": 148,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Hanging Sign\na3",
+      "x": 27,
+      "y": 12043,
+      "w": 164,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Hanging Sign\na3",
+      "x": 27,
+      "y": 12075,
+      "w": 154,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Hanging Sign\na3",
+      "x": 27,
+      "y": 12107,
+      "w": 162,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Hanging Sign\na3",
+      "x": 27,
+      "y": 12139,
+      "w": 163,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Hanging Sign\na3",
+      "x": 27,
+      "y": 12171,
+      "w": 162,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Hanging Sign\na3",
+      "x": 27,
+      "y": 12203,
+      "w": 175,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Hanging Sign\na3",
+      "x": 27,
+      "y": 12235,
+      "w": 170,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Hanging Sign\na3",
+      "x": 27,
+      "y": 12267,
+      "w": 167,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Hanging Sign\na3",
+      "x": 27,
+      "y": 12299,
+      "w": 179,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Hanging Sign\na3",
+      "x": 27,
+      "y": 12331,
+      "w": 170,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Hanging Sign\na3",
+      "x": 27,
+      "y": 12363,
+      "w": 148,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Hanging Sign\na3",
+      "x": 27,
+      "y": 12395,
+      "w": 164,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Hanging Sign\na3",
+      "x": 27,
+      "y": 12427,
+      "w": 154,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Hanging Sign\na3",
+      "x": 27,
+      "y": 12459,
+      "w": 162,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Hanging Sign\na3",
+      "x": 27,
+      "y": 12491,
+      "w": 163,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Hanging Sign\na3",
+      "x": 27,
+      "y": 12523,
+      "w": 162,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Hanging Sign\na3",
+      "x": 27,
+      "y": 12555,
+      "w": 175,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Hanging Sign\na3",
+      "x": 27,
+      "y": 12587,
+      "w": 179,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Hanging Sign\na3",
+      "x": 27,
+      "y": 12619,
+      "w": 170,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Hanging Sign\na3",
+      "x": 27,
+      "y": 12651,
+      "w": 167,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Hanging Sign\na3",
+      "x": 27,
+      "y": 12683,
+      "w": 170,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Pressure Plate\na3",
+      "x": 27,
+      "y": 12715,
+      "w": 153,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Pressure Plate\na3",
+      "x": 27,
+      "y": 12747,
+      "w": 170,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Pressure Plate\na3",
+      "x": 27,
+      "y": 12779,
+      "w": 159,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Pressure Plate\na3",
+      "x": 27,
+      "y": 12811,
+      "w": 167,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Pressure Plate\na3",
+      "x": 27,
+      "y": 12843,
+      "w": 168,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Pressure Plate\na3",
+      "x": 27,
+      "y": 12875,
+      "w": 168,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Pressure Plate\na3",
+      "x": 27,
+      "y": 12907,
+      "w": 181,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Pressure Plate\na3",
+      "x": 27,
+      "y": 12939,
+      "w": 185,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Pressure Plate\na3",
+      "x": 27,
+      "y": 12971,
+      "w": 176,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jukebox\na3",
+      "x": 27,
+      "y": 13003,
+      "w": 99,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Fence\na3",
+      "x": 132,
+      "y": 13003,
+      "w": 110,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Trapdoor\na3",
+      "x": 27,
+      "y": 13035,
+      "w": 126,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Trapdoor\na3",
+      "x": 27,
+      "y": 13067,
+      "w": 142,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Trapdoor\na3",
+      "x": 27,
+      "y": 13099,
+      "w": 132,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Trapdoor\na3",
+      "x": 27,
+      "y": 13131,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Trapdoor\na3",
+      "x": 27,
+      "y": 13163,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Trapdoor\na3",
+      "x": 27,
+      "y": 13195,
+      "w": 141,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Trapdoor\na3",
+      "x": 27,
+      "y": 13227,
+      "w": 153,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Trapdoor\na3",
+      "x": 27,
+      "y": 13259,
+      "w": 157,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Trapdoor\na3",
+      "x": 27,
+      "y": 13291,
+      "w": 148,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brown Mushroom Block\na3",
+      "x": 27,
+      "y": 13323,
+      "w": 177,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Mushroom Block\na3",
+      "x": 27,
+      "y": 13355,
+      "w": 165,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mushroom Stem\na3",
+      "x": 27,
+      "y": 13387,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Fence Gate\na3",
+      "x": 27,
+      "y": 13419,
+      "w": 138,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Stairs\na3",
+      "x": 27,
+      "y": 13451,
+      "w": 125,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Stairs\na3",
+      "x": 27,
+      "y": 13483,
+      "w": 114,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Stairs\na3",
+      "x": 27,
+      "y": 13515,
+      "w": 122,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Button\na3",
+      "x": 27,
+      "y": 13547,
+      "w": 113,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Button\na3",
+      "x": 27,
+      "y": 13579,
+      "w": 129,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Button\na3",
+      "x": 27,
+      "y": 13611,
+      "w": 119,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Button\na3",
+      "x": 27,
+      "y": 13643,
+      "w": 127,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Button\na3",
+      "x": 27,
+      "y": 13675,
+      "w": 127,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Button\na3",
+      "x": 27,
+      "y": 13707,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Button\na3",
+      "x": 27,
+      "y": 13739,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Button\na3",
+      "x": 27,
+      "y": 13771,
+      "w": 144,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Button\na3",
+      "x": 27,
+      "y": 13803,
+      "w": 135,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Trapped Chest\na3",
+      "x": 27,
+      "y": 13835,
+      "w": 132,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Daylight Detector\na3",
+      "x": 27,
+      "y": 13867,
+      "w": 146,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Stairs\na3",
+      "x": 27,
+      "y": 13899,
+      "w": 123,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Stairs\na3",
+      "x": 27,
+      "y": 13931,
+      "w": 123,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Stairs\na3",
+      "x": 27,
+      "y": 13963,
+      "w": 136,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Stairs\na3",
+      "x": 27,
+      "y": 13995,
+      "w": 139,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Stairs\na3",
+      "x": 27,
+      "y": 14027,
+      "w": 131,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Mosaic Stairs\na3",
+      "x": 27,
+      "y": 14059,
+      "w": 171,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "White Banner\na3",
+      "x": 27,
+      "y": 14091,
+      "w": 125,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Orange Banner\na3",
+      "x": 27,
+      "y": 14123,
+      "w": 133,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Magenta Banner\na3",
+      "x": 27,
+      "y": 14155,
+      "w": 141,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Blue Banner\na3",
+      "x": 27,
+      "y": 14187,
+      "w": 146,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Yellow Banner\na3",
+      "x": 27,
+      "y": 14219,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lime Banner\na3",
+      "x": 27,
+      "y": 14251,
+      "w": 120,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Pink Banner\na3",
+      "x": 27,
+      "y": 14283,
+      "w": 117,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Gray Banner\na3",
+      "x": 27,
+      "y": 14315,
+      "w": 119,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Gray Banner\na3",
+      "x": 27,
+      "y": 14347,
+      "w": 148,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cyan Banner\na3",
+      "x": 27,
+      "y": 14379,
+      "w": 121,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Purple Banner\na3",
+      "x": 27,
+      "y": 14411,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blue Banner\na3",
+      "x": 27,
+      "y": 14443,
+      "w": 117,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brown Banner\na3",
+      "x": 27,
+      "y": 14475,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Green Banner\na3",
+      "x": 27,
+      "y": 14507,
+      "w": 126,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Banner\na3",
+      "x": 27,
+      "y": 14539,
+      "w": 115,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Black Banner\na3",
+      "x": 27,
+      "y": 14571,
+      "w": 123,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "White Banner\na3",
+      "x": 27,
+      "y": 14603,
+      "w": 125,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Orange Banner\na3",
+      "x": 27,
+      "y": 14635,
+      "w": 133,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Magenta Banner\na3",
+      "x": 27,
+      "y": 14667,
+      "w": 141,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Blue Banner\na3",
+      "x": 27,
+      "y": 14699,
+      "w": 146,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Yellow Banner\na3",
+      "x": 27,
+      "y": 14731,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lime Banner\na3",
+      "x": 27,
+      "y": 14763,
+      "w": 120,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Pink Banner\na3",
+      "x": 27,
+      "y": 14795,
+      "w": 117,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Gray Banner\na3",
+      "x": 27,
+      "y": 14827,
+      "w": 119,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Light Gray Banner\na3",
+      "x": 27,
+      "y": 14859,
+      "w": 148,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cyan Banner\na3",
+      "x": 27,
+      "y": 14891,
+      "w": 121,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Purple Banner\na3",
+      "x": 27,
+      "y": 14923,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Blue Banner\na3",
+      "x": 27,
+      "y": 14955,
+      "w": 117,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brown Banner\na3",
+      "x": 27,
+      "y": 14987,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Green Banner\na3",
+      "x": 27,
+      "y": 15019,
+      "w": 126,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Red Banner\na3",
+      "x": 27,
+      "y": 15051,
+      "w": 115,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Black Banner\na3",
+      "x": 27,
+      "y": 15083,
+      "w": 123,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Slab\na3",
+      "x": 27,
+      "y": 15115,
+      "w": 101,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Slab\na3",
+      "x": 134,
+      "y": 15115,
+      "w": 118,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Slab\na3",
+      "x": 27,
+      "y": 15147,
+      "w": 107,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Slab\na3",
+      "x": 27,
+      "y": 15179,
+      "w": 115,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Slab\na3",
+      "x": 27,
+      "y": 15211,
+      "w": 115,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Slab\na3",
+      "x": 27,
+      "y": 15243,
+      "w": 116,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Slab\na3",
+      "x": 27,
+      "y": 15275,
+      "w": 129,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Slab\na3",
+      "x": 27,
+      "y": 15307,
+      "w": 132,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Slab\na3",
+      "x": 27,
+      "y": 15339,
+      "w": 124,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Mosaic Slab\na3",
+      "x": 27,
+      "y": 15371,
+      "w": 164,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Fence Gate\na3",
+      "x": 27,
+      "y": 15403,
+      "w": 154,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Fence Gate\na3",
+      "x": 27,
+      "y": 15435,
+      "w": 144,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Fence Gate\na3",
+      "x": 27,
+      "y": 15467,
+      "w": 152,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Fence Gate\na3",
+      "x": 27,
+      "y": 15499,
+      "w": 152,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Fence Gate\na3",
+      "x": 27,
+      "y": 15531,
+      "w": 153,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Fence Gate\na3",
+      "x": 27,
+      "y": 15563,
+      "w": 165,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Fence Gate\na3",
+      "x": 27,
+      "y": 15595,
+      "w": 169,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Fence Gate\na3",
+      "x": 27,
+      "y": 15627,
+      "w": 160,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Fence\na3",
+      "x": 27,
+      "y": 15659,
+      "w": 126,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Fence\na3",
+      "x": 27,
+      "y": 15691,
+      "w": 116,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Fence\na3",
+      "x": 27,
+      "y": 15723,
+      "w": 124,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Fence\na3",
+      "x": 27,
+      "y": 15755,
+      "w": 124,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Fence\na3",
+      "x": 27,
+      "y": 15787,
+      "w": 125,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Fence\na3",
+      "x": 27,
+      "y": 15819,
+      "w": 137,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Fence\na3",
+      "x": 27,
+      "y": 15851,
+      "w": 141,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Fence\na3",
+      "x": 27,
+      "y": 15883,
+      "w": 132,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Door\na3",
+      "x": 27,
+      "y": 15915,
+      "w": 120,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Door\na3",
+      "x": 27,
+      "y": 15947,
+      "w": 110,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Door\na3",
+      "x": 27,
+      "y": 15979,
+      "w": 118,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Door\na3",
+      "x": 27,
+      "y": 16011,
+      "w": 118,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Door\na3",
+      "x": 27,
+      "y": 16043,
+      "w": 119,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Door\na3",
+      "x": 27,
+      "y": 16075,
+      "w": 131,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Door\na3",
+      "x": 27,
+      "y": 16107,
+      "w": 135,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Door\na3",
+      "x": 27,
+      "y": 16139,
+      "w": 126,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo\na3",
+      "x": 27,
+      "y": 16171,
+      "w": 98,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Scaffolding\na3",
+      "x": 131,
+      "y": 16171,
+      "w": 114,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Loom\na3",
+      "x": 27,
+      "y": 16203,
+      "w": 84,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Barrel\na3",
+      "x": 117,
+      "y": 16203,
+      "w": 85,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cartography Table\na3",
+      "x": 27,
+      "y": 16235,
+      "w": 152,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Fletching Table\na3",
+      "x": 27,
+      "y": 16267,
+      "w": 134,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lectern\na3",
+      "x": 27,
+      "y": 16299,
+      "w": 95,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Smithing Table\na3",
+      "x": 27,
+      "y": 16331,
+      "w": 132,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Stem\na3",
+      "x": 27,
+      "y": 16363,
+      "w": 125,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Warped Stem\na3",
+      "x": 27,
+      "y": 16395,
+      "w": 173,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Hyphae\na3",
+      "x": 27,
+      "y": 16427,
+      "w": 138,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Warped Hyphae\na3",
+      "x": 27,
+      "y": 16459,
+      "w": 186,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Stem\na3",
+      "x": 27,
+      "y": 16491,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Crimson Stem\na3",
+      "x": 27,
+      "y": 16523,
+      "w": 175,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Hyphae\na3",
+      "x": 27,
+      "y": 16555,
+      "w": 141,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Stripped Crimson Hyphae\na3",
+      "x": 27,
+      "y": 16587,
+      "w": 189,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Planks\na3",
+      "x": 27,
+      "y": 16619,
+      "w": 135,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Planks\na3",
+      "x": 27,
+      "y": 16651,
+      "w": 132,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Slab\na3",
+      "x": 27,
+      "y": 16683,
+      "w": 124,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Slab\na3",
+      "x": 27,
+      "y": 16715,
+      "w": 121,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Pressure Plate\na3",
+      "x": 27,
+      "y": 16747,
+      "w": 176,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Pressure Plate\na3",
+      "x": 27,
+      "y": 16779,
+      "w": 173,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Fence\na3",
+      "x": 27,
+      "y": 16811,
+      "w": 133,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Fence\na3",
+      "x": 27,
+      "y": 16843,
+      "w": 130,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Trapdoor\na3",
+      "x": 27,
+      "y": 16875,
+      "w": 149,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Trapdoor\na3",
+      "x": 27,
+      "y": 16907,
+      "w": 146,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Fence Gate\na3",
+      "x": 27,
+      "y": 16939,
+      "w": 160,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Fence Gate\na3",
+      "x": 27,
+      "y": 16971,
+      "w": 157,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Stairs\na3",
+      "x": 27,
+      "y": 17003,
+      "w": 131,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Stairs\na3",
+      "x": 27,
+      "y": 17035,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Button\na3",
+      "x": 27,
+      "y": 17067,
+      "w": 136,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Button\na3",
+      "x": 27,
+      "y": 17099,
+      "w": 133,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Door\na3",
+      "x": 27,
+      "y": 17131,
+      "w": 126,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Door\na3",
+      "x": 27,
+      "y": 17163,
+      "w": 123,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Sign\na3",
+      "x": 27,
+      "y": 17195,
+      "w": 124,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Sign\na3",
+      "x": 27,
+      "y": 17227,
+      "w": 121,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Sign\na3",
+      "x": 27,
+      "y": 17259,
+      "w": 124,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Sign\na3",
+      "x": 27,
+      "y": 17291,
+      "w": 121,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Composter\na3",
+      "x": 27,
+      "y": 17323,
+      "w": 113,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bee Nest\na3",
+      "x": 146,
+      "y": 17323,
+      "w": 103,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Beehive\na3",
+      "x": 27,
+      "y": 17355,
+      "w": 96,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Foo\na4",
+      "x": 129,
+      "y": 17355,
+      "w": 74,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lava\na5",
+      "x": 27,
+      "y": 17412,
+      "w": 79,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brown Mushroom\na5",
+      "x": 27,
+      "y": 17444,
+      "w": 146,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Torch\na5",
+      "x": 27,
+      "y": 17476,
+      "w": 84,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Torch\na5",
+      "x": 117,
+      "y": 17476,
+      "w": 84,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Fire\na5",
+      "x": 27,
+      "y": 17508,
+      "w": 74,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Soul Fire\na5",
+      "x": 107,
+      "y": 17508,
+      "w": 100,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Redstone Torch\na5",
+      "x": 27,
+      "y": 17540,
+      "w": 137,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Redstone Torch\na5",
+      "x": 27,
+      "y": 17572,
+      "w": 137,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Soul Torch\na5",
+      "x": 27,
+      "y": 17604,
+      "w": 110,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Soul Torch\na5",
+      "x": 143,
+      "y": 17604,
+      "w": 110,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Glowstone\na5",
+      "x": 27,
+      "y": 17636,
+      "w": 110,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jack o'Lantern\na5",
+      "x": 27,
+      "y": 17668,
+      "w": 131,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Enchanting Table\na5",
+      "x": 27,
+      "y": 17700,
+      "w": 144,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Brewing Stand\na5",
+      "x": 27,
+      "y": 17732,
+      "w": 131,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lava Cauldron\na5",
+      "x": 27,
+      "y": 17764,
+      "w": 129,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dragon Egg\na5",
+      "x": 27,
+      "y": 17796,
+      "w": 116,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Ender Chest\na5",
+      "x": 27,
+      "y": 17828,
+      "w": 119,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Beacon\na5",
+      "x": 152,
+      "y": 17828,
+      "w": 94,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Sea Lantern\na5",
+      "x": 27,
+      "y": 17860,
+      "w": 117,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "End Rod\na5",
+      "x": 150,
+      "y": 17860,
+      "w": 98,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Magma Block\na5",
+      "x": 27,
+      "y": 17892,
+      "w": 125,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Sea Pickle\na5",
+      "x": 27,
+      "y": 17924,
+      "w": 108,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Conduit\na5",
+      "x": 141,
+      "y": 17924,
+      "w": 96,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Lantern\na5",
+      "x": 27,
+      "y": 17956,
+      "w": 95,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Soul Lantern\na5",
+      "x": 128,
+      "y": 17956,
+      "w": 120,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Campfire\na5",
+      "x": 27,
+      "y": 17988,
+      "w": 102,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Soul Campfire\na5",
+      "x": 27,
+      "y": 18020,
+      "w": 128,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Shroomlight\na5",
+      "x": 27,
+      "y": 18052,
+      "w": 118,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crying Obsidian\na5",
+      "x": 27,
+      "y": 18084,
+      "w": 138,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Amethyst Cluster\na5",
+      "x": 27,
+      "y": 18116,
+      "w": 145,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Large Amethyst Bud\na5",
+      "x": 27,
+      "y": 18148,
+      "w": 161,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Medium Amethyst Bud\na5",
+      "x": 27,
+      "y": 18180,
+      "w": 173,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Small Amethyst Bud\na5",
+      "x": 27,
+      "y": 18212,
+      "w": 159,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Sculk Sensor\na5",
+      "x": 27,
+      "y": 18244,
+      "w": 123,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Calibrated Sculk Sensor\na5",
+      "x": 27,
+      "y": 18276,
+      "w": 179,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Sculk Catalyst\na5",
+      "x": 27,
+      "y": 18308,
+      "w": 129,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Ochre Froglight\na5",
+      "x": 27,
+      "y": 18340,
+      "w": 135,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Verdant Froglight\na5",
+      "x": 27,
+      "y": 18372,
+      "w": 145,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Pearlescent Froglight\na5",
+      "x": 27,
+      "y": 18404,
+      "w": 165,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Oak Planks\na3",
+      "x": 27,
+      "y": 18461,
+      "w": 113,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Spruce Planks\na3",
+      "x": 27,
+      "y": 18493,
+      "w": 129,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Birch Planks\na3",
+      "x": 27,
+      "y": 18525,
+      "w": 118,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Jungle Planks\na3",
+      "x": 27,
+      "y": 18557,
+      "w": 127,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Acacia Planks\na3",
+      "x": 27,
+      "y": 18589,
+      "w": 127,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Cherry Planks\na3",
+      "x": 27,
+      "y": 18621,
+      "w": 127,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Dark Oak Planks\na3",
+      "x": 27,
+      "y": 18653,
+      "w": 140,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Mangrove Planks\na3",
+      "x": 27,
+      "y": 18685,
+      "w": 144,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Bamboo Planks\na3",
+      "x": 27,
+      "y": 18717,
+      "w": 135,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Crimson Planks\na3",
+      "x": 27,
+      "y": 18749,
+      "w": 135,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "palette-chip ",
+      "text": "Warped Planks\na3",
+      "x": 27,
+      "y": 18781,
+      "w": 132,
+      "h": 26,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "mini-seg active",
+      "text": "视图",
+      "x": 1188,
+      "y": 283,
+      "w": 44,
+      "h": 24,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "mini-seg ",
+      "text": "编辑",
+      "x": 1236,
+      "y": 283,
+      "w": 44,
+      "h": 24,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "tool-btn ",
+      "text": "V\n选择",
+      "x": 1012,
+      "y": 317,
+      "w": 131,
+      "h": 35,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "tool-btn ",
+      "text": "B\n绘制",
+      "x": 1149,
+      "y": 317,
+      "w": 131,
+      "h": 35,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "tool-btn ",
+      "text": "N\n建造",
+      "x": 1012,
+      "y": 358,
+      "w": 131,
+      "h": 35,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "tool-btn ",
+      "text": "E\n擦除",
+      "x": 1149,
+      "y": 358,
+      "w": 131,
+      "h": 35,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "tool-btn ",
+      "text": "R\n框选",
+      "x": 1012,
+      "y": 399,
+      "w": 131,
+      "h": 35,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "btn primary",
+      "text": "提交重试",
+      "x": 1184,
+      "y": 657,
+      "w": 80,
+      "h": 34,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "btn primary",
+      "text": "导出",
+      "x": 1232,
+      "y": 759,
+      "w": 48,
+      "h": 50,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg active",
+      "text": "虚空",
+      "x": 52,
+      "y": 863,
+      "w": 50,
+      "h": 29,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg ",
+      "text": "超平坦",
+      "x": 108,
+      "y": 863,
+      "w": 62,
+      "h": 29,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg active",
+      "text": "天空",
+      "x": 228,
+      "y": 863,
+      "w": 50,
+      "h": 29,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg ",
+      "text": "白昼",
+      "x": 284,
+      "y": 863,
+      "w": 50,
+      "h": 29,
+      "vis": true
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "seg ",
+      "text": "夜晚",
+      "x": 340,
+      "y": 863,
+      "w": 50,
+      "h": 29,
+      "vis": true
+    }
+  ],
+  "links": [],
+  "inputs": [
+    {
+      "tag": "INPUT",
+      "text": "",
+      "x": 1173,
+      "y": 34,
+      "w": 13,
+      "h": 13,
+      "vis": true
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "x": 1217,
+      "y": 34,
+      "w": 13,
+      "h": 13,
+      "vis": true
+    },
+    {
+      "tag": "TEXTAREA",
+      "cls": "text-area",
+      "text": "",
+      "x": 1012,
+      "y": 585,
+      "w": 268,
+      "h": 68,
+      "vis": true
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "x": 1016,
+      "y": 666,
+      "w": 13,
+      "h": 13,
+      "vis": true
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "x": 1090,
+      "y": 666,
+      "w": 13,
+      "h": 13,
+      "vis": true
+    },
+    {
+      "tag": "SELECT",
+      "cls": "select",
+      "text": "litematica（默认）\njson\nmcfunction",
+      "x": 1012,
+      "y": 759,
+      "w": 212,
+      "h": 50,
+      "vis": true
+    }
+  ],
+  "bodyText": "◈\nmcAgentBuilder\nmedieval_castle_sample · medieval_castle · survival_friendly\n模式\n视图\n编辑\n✚ 新建\n↶ 撤销\n💾 保存\n⚙ 设置\n视图\n整体\n区域\n分层\n材质\n接口\n错误\n相机\niso\nfront\nside\ntop\n⟳ 复位\n边界\n透视\n561 方块\n区域\nR1\nnorthwest_tower\n175 · 1i\nR2\nnorth_gate_wall\n188 · 2i\nR3\ncourtyard_and_south_wall\n198 · 1i\n调色板\n墙体\nStone\na4\nGranite\na4\nPolished Granite\na4\nDiorite\na4\nPolished Diorite\na4\nAndesite\na4\nPolished Andesite\na4\nCobblestone\na4\nGold Ore\na4\nDeepslate Gold Ore\na4\nIron Ore\na4\nDeepslate Iron Ore\na4\nCoal Ore\na4\nDeepslate Coal Ore\na4\nNether Gold Ore\na4\nLapis Lazuli Ore\na4\nDeepslate Lapis Lazuli Ore\na4\nBlock of Lapis Lazuli\na4\nDispenser\na4\nSticky Piston\na4\nPiston\na4\nPiston Head\na4\nBlock of Gold\na4\nBlock of Iron\na4\nBricks\na4\nMossy Cobblestone\na4\nObsidian\na4\nDiamond Ore\na4\nDeepslate Diamond Ore\na4\nBlock of Diamond\na4\nFurnace\na4\nCobblestone Stairs\na4\nIron Door\na4\nRedstone Ore\na4\nDeepslate Redstone Ore\na4\nBasalt\na4\nPolished Basalt\na4\nStone Bricks\na4\nMossy Stone Bricks\na4\nCracked Stone Bricks\na4\nChiseled Stone Bricks\na4\nPacked Mud\na4\nMud Bricks\na4\nInfested Cobblestone\na4\nIron Bars\na4\nChain\na4\nBrick Stairs\na4\nStone Brick Stairs\na4\nMud Brick Stairs\na4\nNether Bricks\na4\nNether Brick Fence\na4\nNether Brick Stairs\na4\nCauldron\na4\nWater Cauldron\na4\nPowder Snow Cauldron\na4\nEnd Stone\na4\nEmerald Ore\na4\nDeepslate Emerald Ore\na4\nBlock of Emerald\na4\nCobblestone Wall\na4\nMossy Cobblestone Wall\na4\nAnvil\na4\nChipped Anvil\na4\nDamaged Anvil\na4\nBlock of Redstone\na4\nNether Quartz Ore\na4\nHopper\na4\nDropper\na4\nWhite Terracotta\na4\nOrange Terracotta\na4\nMagenta Terracotta\na4\nLight Blue Terracotta\na4\nYellow Terracotta\na4\nLime Terracotta\na4\nPink Terracotta\na4\nGray Terracotta\na4\nLight Gray Terracotta\na4\nCyan Terracotta\na4\nPurple Terracotta\na4\nBlue Terracotta\na4\nBrown Terracotta\na4\nGreen Terracotta\na4\nRed Terracotta\na4\nBlack Terracotta\na4\nIron Trapdoor\na4\nPrismarine\na4\nPrismarine Bricks\na4\nDark Prismarine\na4\nPrismarine Stairs\na4\nPrismarine Brick Stairs\na4\nDark Prismarine Stairs\na4\nPrismarine Slab\na4\nPrismarine Brick Slab\na4\nDark Prismarine Slab\na4\nTerracotta\na4\nBlock of Coal\na4\nStone Slab\na4\nSmooth Stone Slab\na4\nSandstone Slab\na4\nCut Sandstone Slab\na4\nPetrified Oak Slab\na4\nCobblestone Slab\na4\nBrick Slab\na4\nStone Brick Slab\na4\nMud Brick Slab\na4\nNether Brick Slab\na4\nQuartz Slab\na4\nRed Sandstone Slab\na4\nCut Red Sandstone Slab\na4\nPurpur Slab\na4\nSmooth Stone\na4\nSmooth Sandstone\na4\nSmooth Quartz Block\na4\nSmooth Red Sandstone\na4\nPurpur Block\na4\nPurpur Pillar\na4\nPurpur Stairs\na4\nEnd Stone Bricks\na4\nRed Nether Bricks\na4\nBone Block\na4\nObserver\na4\nShulker Box\na4\nWhite Shulker Box\na4\nOrange Shulker Box\na4\nMagenta Shulker Box\na4\nLight Blue Shulker Box\na4\nYellow Shulker Box\na4\nLime Shulker Box\na4\nPink Shulker Box\na4\nGray Shulker Box\na4\nLight Gray Shulker Box\na4\nCyan Shulker Box\na4\nPurple Shulker Box\na4\nBlue Shulker Box\na4\nBrown Shulker Box\na4\nGreen Shulker Box\na4\nRed Shulker Box\na4\nBlack Shulker Box\na4\nWhite Glazed Terracotta\na4\nOrange Glazed Terracotta\na4\nMagenta Glazed Terracotta\na4\nLight Blue Glazed Terracotta\na4\nYellow Glazed Terracotta\na4\nL",
+  "canvas": [
+    {
+      "tag": "CANVAS",
+      "text": "",
+      "x": 285,
+      "y": 95,
+      "w": 697,
+      "h": 746,
+      "vis": true
+    }
+  ],
+  "panels": [
+    {
+      "tag": "SECTION",
+      "cls": "panel",
+      "text": "区域\nR1\nnorthwest_tower\n175 · 1i\nR2\nnorth_",
+      "x": 12,
+      "y": 94,
+      "w": 258,
+      "h": 166,
+      "vis": true
+    },
+    {
+      "tag": "H2",
+      "cls": "panel-title",
+      "text": "区域",
+      "x": 27,
+      "y": 109,
+      "w": 228,
+      "h": 16,
+      "vis": true
+    },
+    {
+      "tag": "SECTION",
+      "cls": "panel",
+      "text": "调色板\n墙体\nStone\na4\nGranite\na4\nPolished Gran",
+      "x": 12,
+      "y": 272,
+      "w": 258,
+      "h": 18550,
+      "vis": true
+    },
+    {
+      "tag": "H2",
+      "cls": "panel-title",
+      "text": "调色板",
+      "x": 27,
+      "y": 287,
+      "w": 228,
+      "h": 16,
+      "vis": true
+    },
+    {
+      "tag": "SECTION",
+      "cls": "panel",
+      "text": "校验\n全部通过\n\n无校验错误。",
+      "x": 12,
+      "y": 18834,
+      "w": 258,
+      "h": 102,
+      "vis": true
+    },
+    {
+      "tag": "DIV",
+      "cls": "panel-head",
+      "text": "校验\n全部通过",
+      "x": 27,
+      "y": 18849,
+      "w": 228,
+      "h": 20,
+      "vis": true
+    },
+    {
+      "tag": "H2",
+      "cls": "panel-title",
+      "text": "校验",
+      "x": 27,
+      "y": 18851,
+      "w": 28,
+      "h": 16,
+      "vis": true
+    },
+    {
+      "tag": "SECTION",
+      "cls": "panel",
+      "text": "区域\nID\nR1\n角色\nnorthwest_tower\n包围盒\n0, 0, 0,",
+      "x": 997,
+      "y": 94,
+      "w": 298,
+      "h": 162,
+      "vis": true
+    },
+    {
+      "tag": "H2",
+      "cls": "panel-title",
+      "text": "区域",
+      "x": 1012,
+      "y": 109,
+      "w": 268,
+      "h": 16,
+      "vis": true
+    },
+    {
+      "tag": "SECTION",
+      "cls": "panel",
+      "text": "编辑\n视图\n编辑\nV\n选择\nB\n绘制\nN\n建造\nE\n擦除\nR\n框选\n\n视图模式 ",
+      "x": 997,
+      "y": 268,
+      "w": 298,
+      "h": 235,
+      "vis": true
+    },
+    {
+      "tag": "DIV",
+      "cls": "panel-head",
+      "text": "编辑\n视图\n编辑",
+      "x": 1012,
+      "y": 283,
+      "w": 268,
+      "h": 24,
+      "vis": true
+    },
+    {
+      "tag": "H2",
+      "cls": "panel-title",
+      "text": "编辑",
+      "x": 1012,
+      "y": 287,
+      "w": 28,
+      "h": 16,
+      "vis": true
+    },
+    {
+      "tag": "SECTION",
+      "cls": "panel",
+      "text": "重试区域\n\n目标：R1\n\n保留接口\n保留手动编辑提交重试",
+      "x": 997,
+      "y": 515,
+      "w": 298,
+      "h": 191,
+      "vis": true
+    },
+    {
+      "tag": "H2",
+      "cls": "panel-title",
+      "text": "重试区域",
+      "x": 1012,
+      "y": 530,
+      "w": 268,
+      "h": 16,
+      "vis": true
+    },
+    {
+      "tag": "SECTION",
+      "cls": "panel",
+      "text": "导出\nlitematica（默认）\njson\nmcfunction\n导出",
+      "x": 997,
+      "y": 718,
+      "w": 298,
+      "h": 116,
+      "vis": true
+    },
+    {
+      "tag": "H2",
+      "cls": "panel-title",
+      "text": "导出",
+      "x": 1012,
+      "y": 733,
+      "w": 268,
+      "h": 16,
+      "vis": true
+    },
+    {
+      "tag": "SECTION",
+      "cls": "panel history-panel",
+      "text": "历史\n\n重试：0 · 补丁：0",
+      "x": 997,
+      "y": 846,
+      "w": 298,
+      "h": 85,
+      "vis": true
+    },
+    {
+      "tag": "H2",
+      "cls": "panel-title",
+      "text": "历史",
+      "x": 1012,
+      "y": 861,
+      "w": 268,
+      "h": 16,
+      "vis": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mymod:demo",
+    "name": "Demo",
+    "description": "",
+    "category": "wood",
+    "availability": 4,
+    "visual_style": [
+      "natural"
+    ],
+    "texture_path": "x",
+    "source": "mod_import",
+    "version": "m",
+    "texture_url": "https://example.com/demo.png",
+    "hardness": null,
+    "material": null,
+    "diggable": null,
+    "transparent": null,
+    "emit_light": null,
+    "bounding_box": null
+  }
+]

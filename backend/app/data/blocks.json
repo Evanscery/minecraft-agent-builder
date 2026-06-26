@@ -1,0 +1,162 @@
+{
+  "version": "1.20.2",
+  "source": "PrismarineJS/minecraft-data",
+  "blocks": [
+    {
+      "id": 0,
+      "name": "air",
+      "displayName": "Air",
+      "hardness": 0.0,
+      "material": "default",
+      "diggable": false,
+      "transparent": true,
+      "filterLight": 0,
+      "emitLight": 0,
+      "boundingBox": "empty"
+    },
+    {
+      "id": 1,
+      "name": "stone",
+      "displayName": "Stone",
+      "hardness": 1.5,
+      "material": "mineable/pickaxe",
+      "diggable": true,
+      "transparent": false,
+      "filterLight": 15,
+      "emitLight": 0,
+      "boundingBox": "block"
+    },
+    {
+      "id": 4,
+      "name": "cobblestone",
+      "displayName": "Cobblestone",
+      "hardness": 2.0,
+      "material": "mineable/pickaxe",
+      "diggable": true,
+      "transparent": false,
+      "filterLight": 15,
+      "emitLight": 0,
+      "boundingBox": "block"
+    },
+    {
+      "id": 45,
+      "name": "stone_bricks",
+      "displayName": "Stone Bricks",
+      "hardness": 1.5,
+      "material": "mineable/pickaxe",
+      "diggable": true,
+      "transparent": false,
+      "filterLight": 15,
+      "emitLight": 0,
+      "boundingBox": "block"
+    },
+    {
+      "id": 48,
+      "name": "mossy_cobblestone",
+      "displayName": "Mossy Cobblestone",
+      "hardness": 2.0,
+      "material": "mineable/pickaxe",
+      "diggable": true,
+      "transparent": false,
+      "filterLight": 15,
+      "emitLight": 0,
+      "boundingBox": "block"
+    },
+    {
+      "id": 5,
+      "name": "spruce_planks",
+      "displayName": "Spruce Planks",
+      "hardness": 2.0,
+      "material": "wood",
+      "diggable": true,
+      "transparent": false,
+      "filterLight": 15,
+      "emitLight": 0,
+      "boundingBox": "block"
+    },
+    {
+      "id": 134,
+      "name": "spruce_stairs",
+      "displayName": "Spruce Stairs",
+      "hardness": 2.0,
+      "material": "wood",
+      "diggable": true,
+      "transparent": true,
+      "filterLight": 15,
+      "emitLight": 0,
+      "boundingBox": "block"
+    },
+    {
+      "id": 24,
+      "name": "oak_planks",
+      "displayName": "Oak Planks",
+      "hardness": 2.0,
+      "material": "wood",
+      "diggable": true,
+      "transparent": false,
+      "filterLight": 15,
+      "emitLight": 0,
+      "boundingBox": "block"
+    },
+    {
+      "id": 102,
+      "name": "glass_pane",
+      "displayName": "Glass Pane",
+      "hardness": 0.3,
+      "material": "glass",
+      "diggable": true,
+      "transparent": true,
+      "filterLight": 0,
+      "emitLight": 0,
+      "boundingBox": "empty"
+    },
+    {
+      "id": 50,
+      "name": "torch",
+      "displayName": "Torch",
+      "hardness": 0.0,
+      "material": "default",
+      "diggable": true,
+      "transparent": true,
+      "filterLight": 0,
+      "emitLight": 14,
+      "boundingBox": "empty"
+    },
+    {
+      "id": 89,
+      "name": "lantern",
+      "displayName": "Lantern",
+      "hardness": 3.5,
+      "material": "mineable/pickaxe",
+      "diggable": true,
+      "transparent": true,
+      "filterLight": 0,
+      "emitLight": 15,
+      "boundingBox": "empty"
+    },
+    {
+      "id": 155,
+      "name": "quartz_block",
+      "displayName": "Block of Quartz",
+      "hardness": 0.8,
+      "material": "mineable/pickaxe",
+      "diggable": true,
+      "transparent": false,
+      "filterLight": 15,
+      "emitLight": 0,
+      "boundingBox": "block"
+    },
+    {
+      "id": 137,
+      "name": "command_block",
+      "displayName": "Command Block",
+      "hardness": -1.0,
+      "material": "default",
+      "diggable": false,
+      "transparent": false,
+      "filterLight": 15,
+      "emitLight": 0,
+      "boundingBox": "block"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "language": "zh",
+  "default_version": "1.20.1",
+  "default_build_mode": "survival_friendly",
+  "renderer": {
+    "texture_pack": null,
+    "show_region_boundary": null,
+    "show_interfaces": null,
+    "show_errors": null,
+    "enable_layer_view": null,
+    "enable_xray_view": null
+  },
+  "interaction": {
+    "enable_region_select": null,
+    "enable_block_select": null,
+    "enable_box_select": null,
+    "enable_manual_edit": null,
+    "enable_region_retry": null
+  },
+  "preview": {
+    "default_camera": null,
+    "default_visibility_mode": null,
+    "max_render_blocks": null,
+    "chunk_render_size": null
+  },
+  "materials": {
+    "show_material_panel": null,
+    "allow_material_replace": null,
+    "allow_mod_texture": null
+  },
+  "export": {
+    "default_format": null,
+    "allow_mcfunction": null,
+    "allow_schematic": null,
+    "allow_litematic": null,
+    "allow_json": null
+  }
+}

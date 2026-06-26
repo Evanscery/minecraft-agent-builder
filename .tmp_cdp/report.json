@@ -1,0 +1,62 @@
+{
+  "flows": {
+    "flow1": {
+      "bodyText": "",
+      "outerHead": "",
+      "netFails": [],
+      "netReqs": [
+        "http://127.0.0.1:5173/",
+        "http://127.0.0.1:5173/@vite/client",
+        "http://127.0.0.1:5173/src/main.tsx",
+        "http://127.0.0.1:5173/@react-refresh",
+        "http://127.0.0.1:5173/node_modules/vite/dist/client/env.mjs",
+        "http://127.0.0.1:5173/node_modules/.vite/deps/react_jsx-dev-runtime.js?v=0c3a2eba",
+        "http://127.0.0.1:5173/node_modules/.vite/deps/react.js?v=0c3a2eba",
+        "http://127.0.0.1:5173/node_modules/.vite/deps/react-dom_client.js?v=0c3a2eba",
+        "http://127.0.0.1:5173/src/App.tsx",
+        "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-L57YJLEW.js?v=0c3a2eba",
+        "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-BUSYA2B4.js?v=0c3a2eba",
+        "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-NGODP64W.js?v=0c3a2eba",
+        "http://127.0.0.1:5173/src/pages/ProjectPage.tsx",
+        "http://127.0.0.1:5173/src/styles.css",
+        "http://127.0.0.1:5173/src/components/BottomBar.tsx",
+        "http://127.0.0.1:5173/src/components/EditPanel.tsx",
+        "http://127.0.0.1:5173/src/components/ExportPanel.tsx",
+        "http://127.0.0.1:5173/src/components/Inspector.tsx",
+        "http://127.0.0.1:5173/src/components/MaterialPanel.tsx",
+        "http://127.0.0.1:5173/src/components/NewProjectDialog.tsx",
+        "http://127.0.0.1:5173/src/components/RegionTree.tsx",
+        "http://127.0.0.1:5173/src/components/RetryPanel.tsx",
+        "http://127.0.0.1:5173/src/components/SettingsPage.tsx",
+        "http://127.0.0.1:5173/src/components/TopBar.tsx",
+        "http://127.0.0.1:5173/src/components/ValidationPanel.tsx",
+        "http://127.0.0.1:5173/src/components/VoxelCanvas.tsx",
+        "http://127.0.0.1:5173/src/store/projectStore.ts",
+        "http://127.0.0.1:5173/src/api/client.ts",
+        "http://127.0.0.1:5173/src/utils/i18n.ts",
+        "http://127.0.0.1:5173/src/utils/colors.ts",
+        "http://127.0.0.1:5173/node_modules/.vite/deps/three.js?v=0c3a2eba",
+        "http://127.0.0.1:5173/node_modules/.vite/deps/three_examples_jsm_controls_OrbitControls__js.js?v=0c3a2eba",
+        "http://127.0.0.1:5173/node_modules/.vite/deps/chunk-3AO7Z7HT.js?v=0c3a2eba",
+        "http://127.0.0.1:9393/config",
+        "http://127.0.0.1:9393/config",
+        "http://127.0.0.1:9393/projects/sample",
+        "http://127.0.0.1:5173/favicon.ico",
+        "http://127.0.0.1:9393/config",
+        "http://127.0.0.1:9393/projects/sample-medieval-castle",
+        "http://127.0.0.1:9393/projects/sample-medieval-castle/preview"
+      ],
+      "logs": {
+        "logs": [
+          "[debug] \"[vite] connecting...\"",
+          "[debug] \"[vite] connected.\"",
+          "[info] \"%cDownload the React DevTools for a better development experience: https://reactjs.org/link/react-devtools\" \"font-weight:bold\"",
+          "[log.error] Failed to load resource: the server responded with a status of 404 (Not Found)",
+          "[log.error] Failed to load resource: the server responded with a status of 404 ()"
+        ],
+        "errors": []
+      },
+      "shot": "ok"
+    }
+  }
+}
